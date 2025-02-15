@@ -1,5 +1,4 @@
-# How-To-Train-a-Model
-How To Train a Model
+
 # How to Train a Model
 
 Training a machine learning model involves several key steps, from data preparation to model evaluation. Below is a general workflow for training a model.
