@@ -2,7 +2,10 @@
 # How to Train a Model
 
 Training a machine learning model involves several key steps, from data preparation to model evaluation. Below is a general workflow for training a model.
+## How to open your jupyter notebook except C drive
 
+      jupyter notebook --notebook-dir=D:/ 
+      
 ## 1. Define the Problem
 - **Objective**: Clearly define what you want to achieve (e.g., classification, regression, clustering).
 - **Metrics**: Choose evaluation metrics (e.g., accuracy, F1-score, RMSE) to measure model performance.
