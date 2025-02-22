@@ -1,10 +1,4 @@
 
-# How to Train a Model
-
-## How to open your jupyter notebook except C drive
-
-      jupyter notebook --notebook-dir=D:/ 
-
 ##   Pytorch Environment Setup in Anaconda Prompt
       conda create -n myenv python=3.9
       # Step 1: Activate environment
@@ -15,6 +9,9 @@
       # Step 3: Install Torch
       conda install pytorch torchvision
 
+## How to open your jupyter notebook except C drive
+
+      jupyter notebook --notebook-dir=D:/ 
 
 
 
