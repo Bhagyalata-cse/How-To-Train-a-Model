@@ -1,10 +1,23 @@
 
 # How to Train a Model
 
-Training a machine learning model involves several key steps, from data preparation to model evaluation. Below is a general workflow for training a model.
 ## How to open your jupyter notebook except C drive
 
       jupyter notebook --notebook-dir=D:/ 
+
+##   Pytorch Environment Setup in Anaconda Prompt
+      conda create -n myenv python=3.9
+      # Step 1: Activate environment
+      conda activate myenv
+
+      # Step 2: Install ipykernel
+      conda install ipykernel
+      # Step 3: Install Torch
+      conda install pytorch torchvision
+
+
+
+
       
 ## 1. Define the Problem
 - **Objective**: Clearly define what you want to achieve (e.g., classification, regression, clustering).
