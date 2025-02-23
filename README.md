@@ -8,7 +8,7 @@
       conda install ipykernel
       # Step 3: Install Torch
       conda install pytorch torchvision
-
+      conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ## How to open your jupyter notebook except C drive
 
       jupyter notebook --notebook-dir=D:/ 
