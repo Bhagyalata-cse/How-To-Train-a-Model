@@ -12,7 +12,13 @@
 ## How to open your jupyter notebook except C drive
 
       jupyter notebook --notebook-dir=D:/ 
+      jupyter notebook --notebook-dir=E:/
 
+
+## How to open Tensorboard  
+
+      
+      tensorboard --logdir="E:/OurNet-V2-main/snapshot/summary"
 
 
       
