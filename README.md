@@ -21,6 +21,10 @@
       tensorboard --logdir="E:/OurNet-V2-main/snapshot/summary"
 
 
+
+then create the port and run in web........................
+
+
       
 ## 1. Define the Problem
 - **Objective**: Clearly define what you want to achieve (e.g., classification, regression, clustering).
